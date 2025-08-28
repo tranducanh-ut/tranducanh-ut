@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍🎓 About Me
-> Hi, I'm **Tran Vo Hai Dang** – currently a Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**.  
+> Hi, I'm **Tran Duc Anh** – currently a Computer Engineering student at **Ho Chi Minh City University of Technology (HCMUT)**.  
 > My main interests are **RTL Design**, **Computer Architecture**, and exploring the boundaries of hardware acceleration.  
 
 ---
